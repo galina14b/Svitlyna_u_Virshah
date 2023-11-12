@@ -919,9 +919,6 @@ h4 {
   margin-top: 30px;
 }
 
-.price {
-  
-}
 
 @media all and (max-width: 1024px) {
   .intro__content {
@@ -1022,7 +1019,7 @@ h4 {
   .intro__color {
     width: 40px;
     height: 40px;
-    margin: 0 10px;
+    margin: 10px;
   }
 }
 
@@ -1087,7 +1084,7 @@ h4 {
   }
 
   .intro__color {
-    margin: 0 5px;
+    margin: 5px;
     width: 30px;
     height: 30px;
   }
