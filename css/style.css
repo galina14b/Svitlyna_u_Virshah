@@ -376,7 +376,13 @@ template {
     url('../fonts/KyivRegion/KyivRegion-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-};
+}
+
+@font-face {
+  font-family: 'A DAY WITHOUT SUN';
+  src: url("../fonts/aDayWithoutSun/A_DAY_WITHOUT_SUN.otf") format("opentype");
+}
+
 
 html {
   box-sizing: border-box;
